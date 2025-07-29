@@ -28,5 +28,5 @@
 
 ### 🔗 Links:
 - 🌐 [Portfolio](-)
-- 📄 [LinkedIn][https://www.linkedin.com/in/%C9%99hm%C9%99d-quliyev-0850a8324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+- 📄 [LinkedIn](https://www.linkedin.com/in/%C9%99hm%C9%99d-quliyev-0850a8324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 📧 Email: axmedquliyev68@gmail.com

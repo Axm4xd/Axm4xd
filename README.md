@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyidaga1&layout=compact&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api?username=seyidaga1&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyidaga1&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axm4xd&theme=dark" />
 </div>
 
 ---
